@@ -1,148 +1,133 @@
-
 <!DOCTYPE html>
-<html>
-  <head>
+<html lang="zh-CN">
+ <head>
+     <meta charset="utf-8" />
+  <title>新构思 | FrankenSsstan</title>
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+  <link rel="stylesheet" href="https://frankenssstan.github.io/styles/main.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+   <script src="https://cdn.staticfile.org/highlight.js/9.15.9/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+ </head>
+ <body>
+     <div class="sidebar animated fadeInDown">
+   <div class="logo-title">
+    <div class="title">
+     <img src="https://frankenssstan.github.io/images/avatar.png?v=1610189471315" style="width:127px;" />
+
+     <div class="description">
+      <p>我在此实时更新我的一生。</p>
+     </div>
+    </div>
+   </div>
+   <ul class="social-links">
+
+
     
-<meta charset="utf-8" >
 
-<title>新构思 | Gridea</title>
-<meta name="description" content="我在此实时更新我的一生。">
+    
 
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+    
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://frankenssstan.github.io/favicon.ico?v=1610185281059">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-<link rel="stylesheet" href="https://frankenssstan.github.io/styles/main.css">
+    
 
+    
 
+    
 
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+    
 
+    
 
+    
 
-  </head>
-  <body>
-    <div id="app" class="main">
-      <div class="site-header-container">
-  <div class="site-header">
-    <div class="left">
-      <a href="https://frankenssstan.github.io">
-        <img class="avatar" src="https://frankenssstan.github.io/images/avatar.png?v=1610185281059" alt="" width="32px" height="32px">
-      </a>
-      <a href="https://frankenssstan.github.io">
-        <h1 class="site-title">Gridea</h1>
-      </a>
+    
+
+   </ul>
+   <div class="footer">
+    <div class="by_farbox">
+   Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
     </div>
-    <div class="right">
-      <transition name="fade">
-        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
-      </transition>
+    
+
     </div>
+   </div>
   </div>
-</div>
+  <div class="main">
+     <div class="page-top animated fadeInDown">
+    <div class="nav">
+    
+     <li><a  href="/">首页</a></li>
 
-<transition name="fade">
-  <div class="menu-container" style="display: none;" v-show="menuVisible">
-    <div class="menu-list">
-      
-        
-          <a href="/" class="menu purple-link">
-            首页
-          </a>
-        
-      
-        
-          <a href="/archives" class="menu purple-link">
-            归档
-          </a>
-        
-      
-        
-          <a href="/tags" class="menu purple-link">
-            标签
-          </a>
-        
-      
-        
-          <a href="/post/about" class="menu purple-link">
-            关于
-          </a>
-        
-      
+     <li><a  href="/archives">归档</a></li>
+
+     <li><a  href="/tags">标签</a></li>
+
+     <li><a  href="/post/about">关于</a></li>
+
     </div>
-  </div>
-</transition>
-
-
-      <div class="content-container">
-        <div class="post-detail">
-          
-          <h2 class="post-title">新构思</h2>
-          <div class="post-info post-detail-info">
-            <span><i class="icon-calendar-outline"></i> 2021-01-09</span>
-            
-          </div>
-          <div class="post-content">
-            <p>有个场景是我已经在脑子里想过好多年的，我觉得好屌啊。<br>
+    <div class="information">
+     <div class="back_btn">
+      <li><a class="fa fa-chevron-left" onclick="window.history.go(-1)"> </a></li>
+     </div>
+    </div>
+   </div>
+   <div class="autopagerize_page_element">
+    <div class="content">
+     <div class="post-page">
+      <div class="post animated fadeInDown">
+       <div class="post-title">
+        <h3><a>新构思</a></h3>
+       </div>
+       <div class="post-content">
+        <p>有个场景是我已经在脑子里想过好多年的，我觉得好屌啊。<br>
 就是前几年看剧的时候知道了一个冷知识，如果你被手铐铐在一个无法移动的物体上，你要逃走，那么你只要忍着痛用牙齿把你的拇指连接手腕的那个部分一起咬下来就可以了，然后记得带上那一块大拇指，还有机会可以去医院接上。<br>
 所以我这个场景就是平日里几个朋友被抓了，然后被一伙歹徒囚禁在一个废弃的大楼里，用手铐铐在水管上，然后其中一个家伙就咬掉了那一块肉，然后带着朋友们一起跑出去，我觉得好吊啊，就是那种“为了活下去的话，不就只是用牙咬掉自己的手指头吗？”这种冷酷的性格。<br>
 但是好难写啊，而且又是那种破坏身体去活下去的题材，和我第一篇有点重复了，只是提一下。</p>
 <p>新构思：无😇</p>
 
-          </div>
-        </div>
-
-        
-          <div class="next-post">
-            <a class="purple-link" href="https://frankenssstan.github.io/post/wan-jie/">
-              <h3 class="post-title">
-                下一篇：完结！
-              </h3>
-            </a>
-          </div>
+       </div>
+       <div class="post-footer">
+        <div class="meta">
+         <div class="info">
+          <i class="fa fa-sun-o"></i>
+          <span class="date">2021-01-09</span>
+          <i class="fa fa-tag"></i>
           
+         </div>
+        </div>
+       </div>
       </div>
+      <div class="share">
+       <div class="evernote">
+        <a class="fa fa-bookmark" href="javascript:(function(){EN_CLIP_HOST='http://www.evernote.com';try{var%20x=document.createElement('SCRIPT');x.type='text/javascript';x.src=EN_CLIP_HOST+'/public/bookmarkClipper.js?'+(new%20Date().getTime()/100000);document.getElementsByTagName('head')[0].appendChild(x);}catch(e){location.href=EN_CLIP_HOST+'/clip.action?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title);}})();" ref="nofollow" target="_blank"></a>
+       </div>
+       <div class="weibo">
+        <a class="fa fa-weibo" href="javascript:void((function(s,d,e){try{}catch(e){}var f='http://service.weibo.com/share/share.php?',u=d.location.href,p=['url=',e(u),'&amp;title=',e(d.title),'&amp;appkey=2924220432'].join('');function a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=620,height=450,left=',(s.width-620)/2,',top=',(s.height-450)/2].join('')))u.href=[f,p].join('');};if(/Firefox/.test(navigator.userAgent)){setTimeout(a,0)}else{a()}})(screen,document,encodeURIComponent));"></a>
+       </div>
+       <div class="twitter">
+        <a class="fa fa-twitter" href="http://twitter.com/home?status=,https://frankenssstan.github.io/post/xin-gou-si/,;"></a>
+       </div>
+      </div>
+      <div class="pagination">
+       <ul class="clearfix">
 
-      
-
-      <div class="site-footer">
-  <div class="slogan">我在此实时更新我的一生。</div>
-  <div class="social-container">
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://frankenssstan.github.io/atom.xml" target="_blank">RSS</a>
-</div>
-
-
+        <li class="pre pagbuttons"><a class="btn" role="navigation" href="https://frankenssstan.github.io/post/du-hou-gan-xin-de/" title="读后感+心得">上一篇</a></li>
+         
+        
+        <li class="next pagbuttons"><a class="btn" role="navigation" href="https://frankenssstan.github.io/post/wan-jie/" title=" 完结！">下一篇</a></li>
+        
+       </ul>
+      </div>
+        
+     </div>
     </div>
-    <script type="application/javascript">
-
-hljs.initHighlightingOnLoad()
-
-var app = new Vue({
-  el: '#app',
-  data: {
-    menuVisible: false,
-  },
-})
-
-</script>
+   </div>
+  </div>
+  <script src="https://frankenssstan.github.io/media/scripts/jquery.js"></script>
+  <script src="https://frankenssstan.github.io/media/scripts/jquery-migrate-1.2.1.min.js"></script>
+  <script src="https://frankenssstan.github.io/media/scripts/jquery.appear.js"></script>
 
 
-
-
-  </body>
+ </body>
 </html>

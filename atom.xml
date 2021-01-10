@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frankenssstan.github.io</id>
     <title>FrankenSsstan</title>
-    <updated>2021-01-09T11:05:14.033Z</updated>
+    <updated>2021-01-10T14:52:47.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://frankenssstan.github.io"/>
     <link rel="self" href="https://frankenssstan.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://frankenssstan.github.io/images/avatar.png</logo>
     <icon>https://frankenssstan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, FrankenSsstan</rights>
+    <entry>
+        <title type="html"><![CDATA[爱意应该被善待]]></title>
+        <id>https://frankenssstan.github.io/post/ai-yi-ying-gai-bei-shan-dai/</id>
+        <link href="https://frankenssstan.github.io/post/ai-yi-ying-gai-bei-shan-dai/">
+        </link>
+        <updated>2021-01-09T23:42:48.000Z</updated>
+        <content type="html"><![CDATA[<p>我希望每个人付出的感情都应该被善待。<br>
+有些人坏坏，有些人好好。<br>
+那些好好人做的好好事情，我只希望可以得到回应。<br>
+那些坏坏人做的坏坏事情，我也希望可以留着最后一点人道主义。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[读后感+心得]]></title>
         <id>https://frankenssstan.github.io/post/du-hou-gan-xin-de/</id>

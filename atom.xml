@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frankenssstan.github.io</id>
     <title>FrankenSsstan</title>
-    <updated>2021-01-10T14:53:28.021Z</updated>
+    <updated>2021-01-10T14:55:25.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://frankenssstan.github.io"/>
     <link rel="self" href="https://frankenssstan.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://frankenssstan.github.io/images/avatar.png</logo>
     <icon>https://frankenssstan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, FrankenSsstan</rights>
+    <entry>
+        <title type="html"><![CDATA[警钟长鸣2]]></title>
+        <id>https://frankenssstan.github.io/post/jing-zhong-chang-ming-2/</id>
+        <link href="https://frankenssstan.github.io/post/jing-zhong-chang-ming-2/">
+        </link>
+        <updated>2021-01-10T06:53:54.000Z</updated>
+        <content type="html"><![CDATA[<p>今天禁欲day10<br>
+神清气爽<br>
+距离第一个day100还有90天<br>
+我真🐮</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爱意应该被善待]]></title>
         <id>https://frankenssstan.github.io/post/ai-yi-ying-gai-bei-shan-dai/</id>

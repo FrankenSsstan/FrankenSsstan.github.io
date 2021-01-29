@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frankenssstan.github.io</id>
     <title>FrankenSsstan</title>
-    <updated>2021-01-22T05:39:10.566Z</updated>
+    <updated>2021-01-29T12:29:26.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://frankenssstan.github.io"/>
     <link rel="self" href="https://frankenssstan.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://frankenssstan.github.io/images/avatar.png</logo>
     <icon>https://frankenssstan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, FrankenSsstan</rights>
+    <entry>
+        <title type="html"><![CDATA[已经...不需要再警告了...]]></title>
+        <id>https://frankenssstan.github.io/post/yi-jing-bu-xu-yao-zai-jing-gao-liao/</id>
+        <link href="https://frankenssstan.github.io/post/yi-jing-bu-xu-yao-zai-jing-gao-liao/">
+        </link>
+        <updated>2021-01-29T12:24:42.000Z</updated>
+        <content type="html"><![CDATA[<p>day100的禁欲计划止步day28<br>
+迎来了一场大！社！保！<br>
+彻底的把自己燃至灰白<br>
+希望年轻人都引以为戒，不要胡乱禁欲，往往得不偿失。<br>
+新的目标，截止到2021年12月31日<br>
+禁啪啪啪。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[警告]]></title>
         <id>https://frankenssstan.github.io/post/jing-gao/</id>
@@ -274,17 +288,6 @@
 <li>《异化》：香蕉的作品，太监了。都市异能题材的小说都往后靠嗷，未来一百年不可能有超过这部作品的，虽然太监了。</li>
 <li>《赘婿》：同样是香蕉的作品，该作品按照香蕉的说法：我希望重写中国近代史。他就是司马迁，司马迁就是他。最喜欢的片段是宁毅灭梁山之前在祝家庄的描写，还有林冲赴死，林冲你还是斐迪庇第斯啊！</li>
 </ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[警钟长鸣]]></title>
-        <id>https://frankenssstan.github.io/post/jing-zhong-chang-ming/</id>
-        <link href="https://frankenssstan.github.io/post/jing-zhong-chang-ming/">
-        </link>
-        <updated>2021-01-03T14:05:43.000Z</updated>
-        <content type="html"><![CDATA[<p>扪心自问，今天禁欲了吗？<br>
-至少做到一次Day100！<br>
-与你共勉！</p>
 ]]></content>
     </entry>
 </feed>
